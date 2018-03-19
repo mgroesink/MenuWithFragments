@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MenuWithFragments</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blue_fragment">Hello Blue Fragment</string>
+    <string name="hello_red_fragment">Hello Red Fragment</string>
+    <string name="hello_purple_fragment">Hello Purple Fragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
